@@ -1,25 +1,25 @@
 {
 "data":{
   "Google_Banner":" ",
-   "Google_Intertitial":"",
-   "Google_Native":"",
-   "Google_Native_Banner":" ",
+   "Google_Intertitial":"ca-app-pub-8978725858354638/1090046150",
+   "Google_Native":"ca-app-pub-8978725858354638/3851940864",
+   "Google_Native_Banner":"ca-app-pub-8978725858354638/3851940864",
     "Google_Open":" ",
 	 "Google_Splash_intre":" ",
     "FB_Banner":"",
-   "FB_Intertitial":"",
-    "FB_Intertitial1":"",
-    "FB_Intertitial2":"",
-     "FB_Intertitial3":"",
-      "FB_Intertitial4":"",
-      "FB_Intertitial_exit1":"",
-      "FB_Intertitial_exit2":"",
-      "FB_Intertitial_exit3":"",
-      "FB_Intertitial_exit4":"",
-      "FB_Intertitial_exit5":"",
-    "FB_Native":"",
-   "FB_Native_Banner":"",
-   "onback":""
+   "FB_Intertitial":"419344253021403_419344619688033",
+    "FB_Intertitial1":"419344253021403_421793649443130",
+    "FB_Intertitial2":"419344253021403_421793726109789",
+     "FB_Intertitial3":"419344253021403_421793849443110",
+      "FB_Intertitial4":"419344253021403_421793952776433",
+      "FB_Intertitial_exit1":"419344253021403_421794009443094",
+      "FB_Intertitial_exit2":"419344253021403_421794112776417",
+      "FB_Intertitial_exit3":"419344253021403_421794186109743",
+      "FB_Intertitial_exit4":"419344253021403_421794256109736",
+      "FB_Intertitial_exit5":"419344253021403_421794382776390",
+    "FB_Native":"419344253021403_419344863021342",
+   "FB_Native_Banner":"419344253021403_421794542776374",
+   "onback":"1"
 }
 }
  
